@@ -1,0 +1,31 @@
+{
+  "name": "vue-wordle-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/di01096/Vue-Wordle-Study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/di01096/Vue-Wordle-Study/issues"
+  },
+  "homepage": "https://github.com/di01096/Vue-Wordle-Study#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "dependencies": {
+    "@vue/cli": "^5.0.3",
+    "axios": "^0.26.1",
+    "vue-router": "^4.0.14",
+    "vuex": "^4.0.2"
+  }
+}
